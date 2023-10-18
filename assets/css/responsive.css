@@ -1,0 +1,65 @@
+@media (max-width: 1536px) {
+}
+
+/* xl */
+@media (max-width: 1280px) {
+}
+
+/* lg */
+@media (max-width: 1024px) {
+  
+
+}
+
+/* md */
+@media (max-width: 768px) {
+  .consaltation-consal-design {
+    margin-top: 30px;
+  }
+  .reservaton-wraper {
+    border-bottom: none;
+  }
+  .reservaton-left-cntent {
+    border-right: none;
+  }
+}
+@media (max-width: 767px) {
+  .navbar-expand-sm .navbar-nav .nav-link {
+    padding: 5px 8px;
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  .musashikosugi-Office-heading-content,
+  .musashikosugi-Office-heading-content h1,
+  .single-content-box-bottom-content h1 {
+    padding-left: 0;
+  }
+  
+}
+
+/* sm */
+@media (max-width: 640px) {
+  ul.navbar-nav {
+    flex-direction: row;
+    width: 100%;
+  }
+}
+
+@media (min-width: 576px) {
+  .navbar-expand-sm .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
+
+/* xs */
+@media (max-width: 475px) {
+  nav.navbar a.navbar-brand {
+  
+    font-size: 25px;
+   
+}
+}
