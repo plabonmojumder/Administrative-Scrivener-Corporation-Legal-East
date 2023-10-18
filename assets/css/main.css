@@ -136,7 +136,6 @@ nav.navbar ul li a {
 
 /*------------- reservation-css -start-------*/
 .reservaton-wraper {
-  border-bottom: 2px dotted var(--sky-blue);
   margin-bottom: 10px;
 }
 .reservaton-section-title-box {
@@ -148,12 +147,11 @@ nav.navbar ul li a {
 }
 .reservaton-section-title-box h1 {
   text-align: center;
-
   font-size: 22px;
   color: var(--white);
 }
 .reservaton-left-cntent {
-  border-right: 2px dotted var(--sky-blue);
+  border-right: 1px solid rgb(185, 184, 184);
   /* border-bottom:2px solid #0f86f6 ; */
   padding: 10px 0px;
   text-align: center;
@@ -187,7 +185,6 @@ nav.navbar ul li a {
 .reservaton-box {
   margin-top: 10px;
   padding: 20px 0px;
-
   align-items: center;
   border: 1px solid var(--sky-blue);
 }
@@ -269,7 +266,7 @@ nav.navbar ul li a {
   background-color: var(--light-black);
 }
 .footer-heading-title a {
-  font-size: 18px;
+  font-size: 16px;
   text-decoration: underline;
   color: var(--white);
 }
