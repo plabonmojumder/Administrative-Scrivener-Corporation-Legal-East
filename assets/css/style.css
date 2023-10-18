@@ -74,8 +74,6 @@
   margin-right: 0;
 }
 
-.musashikosugi-Office-heading-content {
-}
 .musashikosugi-Office-heading-content h1 {
   font-size: 20px;
   font-weight: 600;
@@ -109,8 +107,7 @@
   font-weight: 400;
   color: var(--light-black);
 }
-.single-content-box-bottom-content {
-}
+
 .single-content-box-bottom-content h1 {
   font-size: 20px;
   color: var(--sky-blue);
@@ -145,8 +142,7 @@
 .banner-bottom-image img {
 }
 
-.manager-introduction-part {
-}
+
 .manager-name {
   display: flex;
   gap: 150px;
