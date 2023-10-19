@@ -1,3 +1,5 @@
+
+/* ----home-page-design-css-start--- */
 .banner-item {
   margin-bottom: 40px;
 }
@@ -122,116 +124,9 @@
   color: var(--light-black);
   margin: 10px 0px 20px 0px;
 }
+/* ----home-page-design-css-end--- */
 
 /* ================= */
-
-.gretting-description p {
-  font-size: 16px;
-  font-weight: 400;
-  color: var(--light-black);
-  margin-bottom: 20px;
-  line-height: 26px;
-}
-.banner-bottom-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-  margin-top: 50px;
-}
-.banner-bottom-image img {
-}
-
-
-.manager-name {
-  display: flex;
-  gap: 150px;
-  border-top: 1px solid var(--light-black);
-  border-bottom: 1px solid var(--light-black);
-  padding: 10px 0px;
-}
-.manager-name h2 {
-  font-size: 15px;
-  color: var(--sky-blue);
-  font-weight: 600;
-  line-height: 25px;
-}
-.manager-name p {
-  font-size: 15px;
-  font-weight: 400;
-  color: var(--light-black);
-  line-height: 26px;
-}
-.manager-profile {
-  display: flex;
-  gap: 88px;
-  padding: 10px 0px;
-}
-.manager-profile h2 {
-  font-size: 15px;
-  color: var(--sky-blue);
-  font-weight: 600;
-  line-height: 25px;
-}
-.manager-profile p {
-  font-size: 15px;
-  font-weight: 400;
-  color: var(--light-black);
-  line-height: 26px;
-}
-.map {
-  display: flex;
-  justify-content: center;
-}
-.addrees-section {
-  margin-bottom: 80px;
-  margin-top: 30px;
-}
-.address {
-  border-top: 1px solid var(--light-black);
-  border-bottom: 1px solid var(--light-black);
-  display: flex;
-  gap: 150px;
-}
-.address p {
-  padding: 10px 0px;
-  font-size: 15px;
-}
-.add-style {
-  color: var(--sky-blue);
-  font-weight: 600;
-}
-
-.tlephone {
-  display: flex;
-  gap: 124px;
-  border-bottom: 1px solid var(--light-black);
-}
-.tlephone p {
-  padding: 10px 0px;
-  font-size: 15px;
-  line-height: 25px;
-}
-.tel-style {
-  color: var(--sky-blue);
-  font-weight: 600;
-}
-.fax {
-  display: flex;
-  gap: 157px;
-  border-bottom: 1px solid var(--light-black);
-}
-.fax p {
-  padding: 15px 0px;
-  font-size: 15px;
-  line-height: 25px;
-}
-.fa-style {
-  color: var(--sky-blue);
-  font-weight: 600;
-}
-
-/* ========================= */
 .banner-section-2 {
   background-image: var(--page-slider-img);
   background-repeat: repeat;
@@ -290,4 +185,31 @@
   font-size: 15px;
 }
 
-/* ====nagan-&-jotesu-office-page-css-end==== */
+.gretting-description p {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--light-black);
+  margin-bottom: 20px;
+  line-height: 26px;
+}
+.banner-bottom-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+.banner-bottom-image img {
+  
+}
+.map {
+  display: flex;
+  justify-content: center;
+}
+.company-address{
+  margin-top: 20px;
+}
+
+/* ========================= */
+
+

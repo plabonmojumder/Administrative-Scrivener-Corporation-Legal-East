@@ -69,7 +69,7 @@ nav.navbar a.navbar-brand {
   font-weight: 600;
 }
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: var(--white);
 }
 .navbar-brand {
   display: inline-block;
@@ -97,9 +97,9 @@ nav.navbar ul li a {
   display: block;
   padding: 8px 16px;
 }
-/*-- navigation-bar-css-end--- */
+/*------ navigation-bar-css-end--- */
 
-/* ============================ */
+/*---- consolation-box-css-srart---- */
 .consaltation-consal-design {
   margin-top: 20px;
   margin-bottom: 30px;
@@ -132,7 +132,30 @@ nav.navbar ul li a {
   font-size: 45px;
   color: var(--sky-blue);
 }
-/* -================ */
+/*---- consolation-box-css-end---- */
+
+/*--- manager-introduction & company-address-css-start----- */
+.table {
+  width: 100%;
+  margin-bottom: 16px;
+  color: var(--light-black);
+  border-collapse: collapse;
+  font-size: 15px;
+  font-family: 400;
+}
+.tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+.table td, .table th {
+  padding: 12px;
+  border-top: 1px solid #dee2e6;
+}
+.table .tr .th {
+  color: var(--sky-blue);
+}
+/*--- manager-introduction & company-address-css-end----- */
 
 /*------------- reservation-css -start-------*/
 .reservaton-wraper {
@@ -142,7 +165,6 @@ nav.navbar ul li a {
   padding: 15px 0px;
   background-color: var(--sky-blue);
   margin: 40px 0px 20px 0px;
-  /* border-radius: 20px; */
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 .reservaton-section-title-box h1 {
@@ -250,10 +272,9 @@ nav.navbar ul li a {
   border: 1px solid #f2833b;
   color: #f2833b;
 }
-
 /*------------- reservation-css -end-------*/
 
-/* ------------footer-css---------*/
+/* ------------footer-css-strart---------*/
 .footer-section {
   background-color: var(--white);
 }
@@ -299,7 +320,7 @@ nav.navbar ul li a {
 
 .footer-item i {
   font-size: 14px;
-  color: var(--sky-blue);
+  color: var(--light-black);
   margin-right: 8px;
 }
 
@@ -307,3 +328,4 @@ nav.navbar ul li a {
   color: var(--sky-blue);
   font-weight: 400;
 }
+/* ------------footer-css-strart---------*/
