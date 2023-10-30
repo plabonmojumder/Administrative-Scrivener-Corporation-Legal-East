@@ -184,6 +184,10 @@
   margin-right: 10px;
   font-size: 15px;
 }
+.banner-bottom-tittle a :hover{
+  text-decoration: underline;
+  color: rgb(0, 68, 255);
+}
 
 .gretting-description p {
   font-size: 16px;
