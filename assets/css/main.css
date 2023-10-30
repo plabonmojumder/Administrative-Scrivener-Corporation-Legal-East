@@ -148,7 +148,8 @@ nav.navbar ul li a {
   vertical-align: middle;
   border-color: inherit;
 }
-.table td, .table th {
+.table td,
+.table th {
   padding: 12px;
   border-top: 1px solid #dee2e6;
 }
@@ -192,9 +193,8 @@ nav.navbar ul li a {
   font-size: 22px;
   margin-right: 10px;
 }
-.contact-num :hover{
+.contact-num :hover {
   border-bottom: 2px solid var(--sky-blue);
-
 }
 
 .reservaton-left-cntent p {
@@ -203,7 +203,7 @@ nav.navbar ul li a {
   font-weight: 400;
   line-height: 30px;
 }
-.reservaton-right-content{
+.reservaton-right-content {
   padding: 10px 0px;
 }
 .reservaton-right-title h1 {
@@ -211,9 +211,6 @@ nav.navbar ul li a {
   font-size: 20px;
   text-align: center;
   color: var(--sky-blue);
-}
-.reservaton-box-outer{
-  
 }
 .reservaton-box {
   padding: 10px 0px;
@@ -255,7 +252,6 @@ nav.navbar ul li a {
   background-color: #ff0000;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border: 1px solid #ff0000;
- 
 }
 .reservaton-bottom-button button:nth-child(1):hover {
   background-color: #fff;
@@ -274,7 +270,6 @@ nav.navbar ul li a {
   border: 1px solid #051c31;
   color: #051c31;
   text-decoration: underline;
-
 }
 
 .reservaton-bottom-button button:nth-child(3) {
@@ -287,7 +282,6 @@ nav.navbar ul li a {
   border: 1px solid #f2833b;
   color: #f2833b;
   text-decoration: underline;
-
 }
 /*------------- reservation-css -end-------*/
 
