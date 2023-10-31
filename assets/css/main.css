@@ -9,7 +9,7 @@ body {
   width: 100%;
   font-size: 14px;
   font-weight: 400;
-  line-height: 19px;
+  line-height: 20px;
   position: relative;
   overflow-x: hidden;
   font-family: sans-serif;
@@ -141,7 +141,6 @@ nav.navbar ul li a {
   color: var(--light-black);
   border-collapse: collapse;
   font-size: 15px;
-  font-family: 400;
 }
 .tbody {
   display: table-row-group;
@@ -200,7 +199,6 @@ nav.navbar ul li a {
 .reservaton-left-cntent p {
   font-size: 16px;
   margin: 10px;
-  font-weight: 400;
   line-height: 30px;
 }
 .reservaton-right-content {
@@ -227,7 +225,6 @@ nav.navbar ul li a {
 .reservaton-box p {
   font-size: 16px;
   text-align: center;
-  font-weight: 400;
   line-height: 25px;
   color: var(--sky-blue);
 }
@@ -327,7 +324,6 @@ nav.navbar ul li a {
 .footer-item a {
   font-size: 14px;
   color: var(--light-black);
-  font-weight: 400;
   line-height: 25px;
 }
 
