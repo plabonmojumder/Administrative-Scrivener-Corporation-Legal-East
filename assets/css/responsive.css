@@ -34,6 +34,10 @@
   .single-content-box-bottom-content h1 {
     padding-left: 0;
   }
+  .employe-member {
+  
+    flex-direction: column;
+}
   
 }
 
