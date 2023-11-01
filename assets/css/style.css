@@ -122,42 +122,6 @@
 /* ----home-page-design-css-end--- */
 
 /* ================= */
-.banner-section-2 {
-  background-image: var(--page-slider-img);
-  background-repeat: no-repeat;
-  /* background-size: 100% 100%; */
-  background-size: auto;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 50px 0;
-  position: relative;
-}
-.banner-section-2:before {
-  content: "";
-  height: 100%;
-  width: 100%;
-  background-color: #0f0e0e8f;
-  opacity: 0.4;
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-
-.banner-section-2 .title {
-  color: var(--white);
-  position: relative;
-}
-
-.banner-section-2 .title h2 {
-  font-size: 35px;
-  line-height: 30px;
-  font-weight: 700;
-  margin: 0;
-}
-
 .banner-bottom-section {
   background-color: #f9ecc9;
 }
@@ -345,6 +309,7 @@ padding: 10px 10px;
   color: var(--black);
   font-size: 15px;
 }
+/* =============================== */
 /* .groupt{
  
     table-layout: fixed;
@@ -352,5 +317,17 @@ padding: 10px 10px;
     height: 300px;
 
 } */
+
+.group-heading-txt{
+
+}
+.group-heading-txt p{
+   margin-bottom: 15px;
+ font-weight: 600;
+  font-size: 17px;
+  line-height: 30px;
+  color: var(--black);
+}
+
 
 

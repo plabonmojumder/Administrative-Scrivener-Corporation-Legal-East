@@ -99,6 +99,26 @@ nav.navbar ul li a {
 }
 /*------ navigation-bar-css-end--- */
 
+/* -----banner-section-css -tart---- */
+.all-banner-section{
+  position: relative;
+}
+.banner-inner-content{
+  position: absolute;
+  left: 50%;
+  top: 50%;          
+  transform: translate(-50%,-50%);
+}
+.banner-inner-content  h2{
+ font-size: 30px;
+ line-height: 35px;
+ font-weight: 700;
+ color: var(--white);
+ text-shadow: 0px 0px 10px rgba(0,0,0,.8);
+ letter-spacing: 1px;
+}
+/*----- banner-section-css-end---- */
+
 /*---- consolation-box-css-srart---- */
 .consaltation-consal-design {
   margin-top: 20px;
